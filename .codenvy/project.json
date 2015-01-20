@@ -1,0 +1,1 @@
+{"builders":{"default":"ant"},"runners":{"configs":{"recommend":{"ram":256,"variables":{},"options":{}}},"default":"system:/java/standalone/simple/cli"},"description":"A simple JAR project based on Ant.","type":"ant","attributes":{"language":["java"]}}
